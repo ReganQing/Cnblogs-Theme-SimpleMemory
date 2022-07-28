@@ -6,8 +6,8 @@
  * @describe: banner 处理
  */
 import bannerTemp from '../../template/banner.html';
-import homeTopBg from "../../images/webp/home_top_bg.webp";
-import netHomeTopBg from "../../images/webp/nothome_top_bg.webp";
+import homeTopBg from "../../images/webp/landscape2.png";
+import netHomeTopBg from "../../images/webp/TontonRevolver.jpg";
 
 export default function main(_) {
 
